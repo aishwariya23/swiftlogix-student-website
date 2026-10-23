@@ -8,35 +8,32 @@ A beginner-friendly website project created for teaching the basic structure of 
 - `style.css` — colours, spacing, layout, and responsive design
 - `script.js` — simple shipment tracking interaction
 
-## Sections in the webpage
+# SwiftLogix — Learn Web Development
 
-1. Header
-2. Navigation
-3. Hero / main banner
-4. Track Your Shipment form
-5. Why SwiftLogix feature cards
-6. Recent Shipment section
-7. Footer
+Learn how websites and web applications are built by creating
+the SwiftLogix logistics website.
 
-## Run locally
+## Learning Path
 
-Open `index.html` in a browser.
+### 1. Web Fundamentals
+- [How the Web Works](lessons/00-web-fundamentals.md)
+- [Ways to Build a Website](lessons/01-how-websites-are-built.md)
 
-For VS Code, you can also use the Live Server extension.
+### 2. HTML
+- [HTML Basics](lessons/02-html-basics.md)
+- [HTML in Depth](lessons/03-html-in-depth.md)
+- [HTML Tag Reference](lessons/04-html-reference.md)
 
-## Test shipment IDs
+### 3. CSS
+- [CSS Basics](lessons/05-css-basics.md)
+- [CSS in Depth](lessons/06-css-in-depth.md)
 
-- `S101` → Delivered
-- `S102` → In Transit
-- `S103` → Delayed
+### 4. JavaScript
+- [JavaScript Basics](lessons/07-javascript-basics.md)
+- [JavaScript in Depth](lessons/08-javascript-in-depth.md)
 
-## GitHub Pages
+## SwiftLogix Project
 
-1. Upload these files to a GitHub repository.
-2. Open the repository **Settings**.
-3. Go to **Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Choose the `main` branch and `/root` folder.
-6. Save.
-
-GitHub will provide a public website URL.
+- [HTML](index.html)
+- [CSS](style.css)
+- [JavaScript](script.js)
