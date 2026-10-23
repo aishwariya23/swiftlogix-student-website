@@ -22,8 +22,7 @@ the SwiftLogix logistics website.
 ### 2. HTML
 - [HTML Basics](lessons/02-html-basics.md)
 - [HTML in Depth](lessons/03-html-in-depth.md)
-- [HTML Tag Reference](lessons/04-html-reference.md)
-
+  
 ### 3. CSS
 - [CSS Basics](lessons/05-css-basics.md)
 - [CSS in Depth](lessons/06-css-in-depth.md)
